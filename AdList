@@ -1,0 +1,55 @@
+! Almatth´s Allowlist
+! Verssion: 2022.12.17
+
+! Google
+@@||clients4.google.com^
+@@||clients2.google.com^
+@@||0.client-channel.google.com^
+@@||googleapis.l.google.com^
+! WinUpdates
+@@||a-msedge.net^
+@@||slscr.update.microsoft.com^
+@@||v10.vortex-win.data.microsoft.com^
+@@||settings-win.data.microsoft.com^
+! WinInternetprüfung
+@@||www.msftncsi.com^
+@@||msftncsi.com^
+@@||ipv6.msftncsi.com^
+! Office
+@@||outlook.office365.com^
+@@||products.office.com^
+@@||c.s-microsoft.com^
+@@||i.s-microsoft.com^
+@@||login.live.com^
+@@||login.microsoftonline.com^
+! Microsoft Store
+@@||dl.delivery.mp.microsoft.com^
+@@||geo-prod.do.dsp.mp.microsoft.com^
+@@||displaycatalog.mp.microsoft.com^
+! Xbox
+@@||clientconfig.passport.net^
+@@||v10.events.data.microsoft.com^
+@@||v20.events.data.microsoft.com^
+@@||client-s.gateway.messenger.live.com^
+@@||xbox.ipv6.microsoft.com^
+@@||device.auth.xboxlive.com^
+@@||www.msftncsi.com^
+@@||title.mgt.xboxlive.com^
+@@||xsts.auth.xboxlive.com^
+@@||title.auth.xboxlive.com^
+@@||ctldl.windowsupdate.com^
+@@||attestation.xboxlive.com^
+@@||xboxexperiencesprod.experimentation.xboxlive.com^
+@@||xflight.xboxlive.com^
+@@||cert.mgt.xboxlife.com^
+@@||xkms.xboxlive.com^
+@@||def-vef.xboxlive.com^
+@@||notify.xboxlive.com^
+@@||help.ui.xboxlive.com^
+@@||licensing.xboxlive.com^
+@@||eds.xboxlive.com^
+@@||www.xboxlive.com^
+@@||v10.vortex-win.data.microsoft.com^
+@@||settings-win.data.microsoft.com^
+! Office
+@@||officeclient.microsoft.com^
